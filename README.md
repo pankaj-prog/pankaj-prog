@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @pankaj-prog
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning MERN stack.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Pankaj Wadhwani 
+- 👀 Software developer 
 - 📫 You can contact me on my linkedin profile - https://www.linkedin.com/in/pankajw01/
 
 <!---
